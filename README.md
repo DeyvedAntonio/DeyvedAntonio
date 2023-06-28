@@ -1,12 +1,11 @@
 ### Hi there 👋
 
-- 🔭 no momento estou trabalhando ...
-- 🌱 atualmente estou aprendendo ...
+- 🔭 no momento estou adquirindo experiência
+- 🌱 atualmente estou aprendendo Data Analyst (SQL, Python, Power BI)
 - 💬 Pergunte-me sobre ...
 
 <div align="center">
   <a href="https://github.com/DeyvedAntonio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeyvedAntonio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeyvedAntonio&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
