@@ -27,11 +27,6 @@ Análise de dados, Liderança, Pensamento Computacional, Trabalho em Equipe, Res
 - Português (nativo)
 
 
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deyvedantonio/)
-[![GitHub](https://img.shields.io/badge/GitHub-0A66C2?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/DeyvedAntonio)
-
-
 ## Linguagens
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DeyvedAntonio&theme=nord&show_icons=true)
 
