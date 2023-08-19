@@ -30,7 +30,6 @@ Análise de dados, Liderança, Pensamento Computacional, Trabalho em Equipe, Res
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deyvedantonio/)
 [![GitHub](https://img.shields.io/badge/GitHub-0A66C2?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/DeyvedAntonio)
-[![Perfil DIO](https://img.shields.io/badge/DIO-0A66C2)](https://www.dio.me/users/deyved_antonio)
 
 
 ## Linguagens
