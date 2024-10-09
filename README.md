@@ -3,7 +3,8 @@
 
 
 ## 🚀 Sobre mim
-Eu estou em transição de carreira para Análise de dados. Sou Bacharel em Ciência da Computação, funcionário público no Estado do Espírito Santo.
+<p>Como Analista de Dados, minha abordagem é fortemente influenciada por minha natureza analítica e meu compromisso com a precisão e a qualidade. Sou um indivíduo racional e equilibrado, com uma abordagem sistemática para cada projeto. Tomo decisões com cautela, baseando-me em fatos sólidos.</p>
+Sou bacharel em Ciência da Computação.
 
 
 ## 🛠 Habilidades
