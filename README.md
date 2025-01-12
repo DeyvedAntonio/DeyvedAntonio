@@ -32,9 +32,5 @@ Análise de dados, Liderança, Pensamento Computacional, Trabalho em Equipe, Res
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DeyvedAntonio&theme=nord&show_icons=true)
 
 
-## Minhas contribuições 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DeyvedAntonio&theme=nord)](https://git.io/streak-stats)
-
-
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeyvedAntonio&theme=nord&show_icons=true)
