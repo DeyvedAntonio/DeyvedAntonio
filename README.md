@@ -29,8 +29,7 @@ Análise de dados, Liderança, Pensamento Computacional, Trabalho em Equipe, Res
 
 
 ## Linguagens
-[![GitHub Streak](https://streak-stats.demolab.com?user=DeyvedAntonio&theme=darcula&hide_border=true&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
-
+![DeyvedAntonio's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeyvedAntonio&theme=dracula&show_icons=true&hide_border=false&layout=compact)
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeyvedAntonio&theme=nord&show_icons=true)
+![DeyvedAntonio's Stats](https://github-readme-stats.vercel.app/api?username=DeyvedAntonio&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
