@@ -40,6 +40,9 @@ Graduado em Ciência da Computação, focado na construção de sistemas web rob
 - 💰 **[FinTrack](https://github.com/DeyvedAntonio/FinTrack)**  
   Aplicação web para **gestão e controle financeiro pessoal**. Permite o registro e conciliação de receitas e despesas categorizadas, fornecendo acompanhamento de indicadores financeiros e tomada de decisão por meio de um painel interativo.
 
+- ✅ **[projeto_TODO](https://github.com/DeyvedAntonio/projeto_TODO)**  
+  Aplicação para gerenciamento de tarefas e produtividade, focada em operações completas de CRUD, organização de fluxo de trabalho e estruturação limpa de código para controle de pendências.
+
 ---
 
 ## 🌐 Idiomas
