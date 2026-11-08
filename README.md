@@ -71,4 +71,4 @@ Graduado em Ciência da Computação, focado na construção de sistemas web rob
 ## 📬 Conecte-se comigo
 
 <!-- Adicione seus links profissionais se desejar -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/deyvedantonio)
